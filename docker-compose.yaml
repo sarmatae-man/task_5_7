@@ -1,0 +1,6 @@
+version: '2'
+
+services:
+  ver-and-date:
+    image: ubuntu-20-04:test-script
+    command: ./ver_and_date.sh
