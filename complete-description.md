@@ -152,7 +152,7 @@ services:
 docker-compose up
 ```
 
-![Процесс сборки](3 docker-compose up.jpg)
+![Процесс сборки](3_docker_compose_up.jpg)
 
 ---
 
